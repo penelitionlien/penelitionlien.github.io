@@ -1,5 +1,5 @@
 ---
-date: 2021-02-01 11:58:19
+
 layout: post
 title: "Tata Cara Sholat Jenazah"
 author: postkomik
