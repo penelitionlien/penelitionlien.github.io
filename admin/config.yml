@@ -43,9 +43,9 @@ collections:
     folder: "_tags"
     widget: "select"
     
-    multiple: true
+    
   
-    options: ["blog", "blog", "blog"]
+    options: ["blog", "blog", "Design"]
   
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "tags"}
