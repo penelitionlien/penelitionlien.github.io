@@ -4,3 +4,13 @@ backend:
   branch: main
 publish_mode: editorial_workflow
 media_folder: "assets/images/uploads"
+
+collections:
+  - name: "posts"
+    label: "Post"
+    folder: "_posts"
+    filter:
+      field: language
+      value: en
+    fields:
+      - {label: "Language", name: "language"}
