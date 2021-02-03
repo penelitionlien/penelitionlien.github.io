@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: "Malam yang sunyi"
 author: postkomik
 tags: [ puisi ]
