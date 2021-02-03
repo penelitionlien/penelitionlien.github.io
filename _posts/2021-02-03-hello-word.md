@@ -1,10 +1,10 @@
 ---
 layout: post
-title: '"hello word"'
+title: hello word
 author: postkomik
-tags: "[ data ]"
+tags: "data "
 image: /assets/images/uploads/download.jpeg
-categories: "[ data ]"
+categories: dunia
 date: 2021-02-03T16:51:43.686Z
 rating: 1
 beforetoc: hello dunia apa kabar
