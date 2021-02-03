@@ -13,3 +13,5 @@ Postkomik adalah Blog informasi dunia maya yang mudah mudahan memberikan manfaat
 
 mengenai blog ini awal nya sih hanya iseng dan hobi untuk latihan menulis karna semakin maju nya duni digital kita ga bisa ketinggalan gitu aja apalagi dalam duani seni menulis nah adanya blogger memberikan fasilitas blog maka ane manfaatkan untuk menyalurkan hobi dan bakat walau masih malas malasan untuk mengapresiaknnya
 
+
+

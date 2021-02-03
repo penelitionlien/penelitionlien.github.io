@@ -1,0 +1,51 @@
+I"¯<style>
+#follow-buttons {position: fixed; top: 320px; right: -50px; height: 164px;}
+#follow-buttons > div {
+    position: relative;
+    right: 0;
+    -webkit-transition: right 0.2s ease;                  
+    -moz-transition: right 0.2s ease;                 
+    -o-transition: right 0.2s ease;   
+    -ms-transition: right 0.2s ease;          
+    transition: right 0.2s ease;  
+    line-height: 40px; 
+}
+#follow-buttons > div:hover {position: relative; right: 50px;}
+#follow-buttons > div {background: #444; text-align: left; width: 90px; height: 40px; color: white; border-bottom: 1px solid rgba(255,255,255,0.15);}
+#follow-buttons > div > div {background: transparent; font-size: 12px; line-height: 32px; width: 40px; display: inline-block; vertical-align: middle; text-align: center;}
+#follow-buttons > div:first-child {border-top-left-radius: 3px;}
+#follow-buttons > div:last-child {border-bottom: 0; border-bottom-left-radius: 3px;}
+#follow-buttons > div:hover {cursor: pointer;}
+#follow-buttons > div.facebook:hover {background: #3B5998;}
+#follow-buttons > div.twitter:hover {background: #55ACEE;}
+#follow-buttons > div.linkedin:hover {background: #0077b5;}
+#follow-buttons > div.pinterest:hover {background: #CB2027;}
+#follow-buttons > div.gplus:hover {background: #dd4b39;}
+#follow-buttons > div.mail:hover {background: #7D7D7D;}
+#follow-buttons > div.instagram:hover {background: #C73B92;}
+#follow-buttons > div.instagram > div {line-height: 32px;}
+
+#follow-buttons > div svg {height: 20px; fill: #bbb; margin-top: 10px;}
+#follow-buttons > div:hover svg {fill: #fff;}
+#follow-buttons > div.facebook svg {height: 22px; margin-top: 9px;}
+#follow-buttons > div.twitter svg {height: 24px; margin-top: 8px;}
+#follow-buttons > div.linkedin svg {height: 23px; margin-top: 7px;}
+#follow-buttons > div.pinterest svg {height: 24px; margin-top: 9px;}
+#follow-buttons > div.instagram svg {height: 24px; margin-top: 8px;}
+#follow-buttons > div.gplus svg {height: 21px; margin-top: 9px; position: relative; left: 1px;}
+#follow-buttons > div.mail svg {height: 18px; margin-top: 11px;}
+
+@media (max-width: 900px) {
+    #follow-buttons {display: none;}
+}
+</style>
+
+<div id="follow-buttons">
+    
+    
+    
+    
+    
+    
+</div>
+:ET

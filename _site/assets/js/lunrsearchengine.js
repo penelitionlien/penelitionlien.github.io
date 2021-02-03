@@ -36,16 +36,21 @@ var documents = [{
     "body": "Contact UsUntuk Informasi Contact Bisa menghubungi melalui Chat whatsap Dan fitur ada di sebela bawah kiri atau bisa memalui email : Ahmadalwy@gmail. com Untuk Menghubungi lewat telpone = 0878 7897 0878  Bila ingin pasang iklan silahkan hunbungin nomor telp tersebut atau bisa juga melalui email atau isi form ini dah gan "
     }, {
     "id": 7,
+    "url": "/follow",
+    "title": "Follow",
+    "body": "  {% if site. facebook_url %}Follow{% endif %}  {% if site. twitter_url %}Follow{% endif %}  {% if site. linkedin_url %}Follow{% endif %}  {% if site. googleplus_url %}Follow{% endif %}  {% if site. pinterest_url %}Follow{% endif %}  {% if site. instagram_url %}Follow{% endif %}"
+    }, {
+    "id": 8,
     "url": "/",
     "title": "Home",
     "body": "  {% for post in paginator. posts %}    {% include postbox. html %}  {% endfor %}  {% include pagination. html %}      {% include youtube. html %}"
     }, {
-    "id": 8,
+    "id": 9,
     "url": "/tata-cara-sholat-jenazah/",
     "title": "Tata Cara Sholat Jenazah",
     "body": "2021/02/04 - shalat jenazah adalah fardu kifayah artinya jika sudah ada yang menjalankan maka kewajiaban melakukannya pada daerah sekiranya gugur jadi untuk laki laki maupun perempuan terdapat kewajiaban yang sama adapun tata cara mengerjakannya  akan dipaparkan dalam artikel ini nah simak baik baik okey Riwayat Imam Bukhari dan Imam Muslim “Ketika ada seorang laki-laki meninggal dalam berutang disampaikan kepada Rasulullah, maka beliau bertanya apakah ia meninggalkan harta untuk membayar hutangnya. Jika dikatakan ia meninggalkan hartanya untuk membayar hutang, maka beliau akan menshalatkannya. Jika tidak, maka beliau akan memerintahkan kepada kaum muslimin, “sholatkanlah temanmu ini. ” sholat jenazah berapa rakaat ?jawabannya : tidak ada rakaat di dalam nya tapi hanya 4 takbiratul ihram. Nah faham kan #Rukun Shalat jenazah :NiatBerdiri untuk yang mampuEmpat kali takbirMengangkat tangan pada saat takbir pertamaMembaca surat Al FatihahMembaca sholawat NabiBerdoa untuk jenazahSalam Urutan dalam pelaksanann nya  : Ini adalah urutan tata melaksanaknnya #1 takbiratul ihram lalu membaca surat al fatihahproses niat ini kita dalah hati sebari membaca surat al fatihah serta tak boleh lalai kalau saat itu kita lagi ingat akan shalat #2. Takbir kedua lalu membaca sholawatTakbir sambil mengangkat tangan setinggi telinga atau sejajar bahu. Kemudian kembali meletakkan tangan di atas pusar. Setelah itu membaca sholawat Nabi. Sholawat Nabi ini banyak bentuknya, yang paling afdhal adalah sholawat Ibrahimiyah. #3. Takbir ketiga lalu berdoa untuk jenazahMembaca takbir sambil mengangkat tangan setinggi telinga atau sejajar bahu. Lalu kembali meletakkan tangan di atas pusar. Setelah itu membaca doa untuk jenazah. #4. Takbir keempat lalu berdoa lagiSambil mengangkat tangan setinggi telinga atau sejajar bahu, lalu meletakkan tangan di atas pusar lagi. Lalu berdoa dengan doa untuk jenazah dan orang-orang yang ia tinggalkan. #5. SalamYakni mengucapkan salam ke kanan dan ke kiri sebagaimana sholat-sholat lainnya. ya mohon maaf kalau ada kesahan tulisan atau kata kata yang tidak cocok untuk di baca karena ini saya masih belajar . dan artikel ini saya ambil dari beberapa sumber. adapun untuk lengkap nya kalian bisa berkunjung saja ke sana "
     }, {
-    "id": 9,
+    "id": 10,
     "url": "/postingan-ke-empat/",
     "title": "postingan ke empat",
     "body": "2021/02/04 - Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum "
