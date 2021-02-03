@@ -8,7 +8,7 @@ date: 2021-02-03T12:37:47.208Z
 image: /assets/images/uploads/download.jpeg
 rating: 4
 beforetoc: "Padahal awan awan ingin berjalan dan bersanding"
-image: https://4.bp.blogspot.com/-vVbYk033SQw/Uwi2pJENaXI/AAAAAAAABlw/-HeM4C9F-3U/s1600/1490rere.jpg
+
 ---
 Malam Yang Sunyi 
 
