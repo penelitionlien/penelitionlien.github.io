@@ -1,0 +1,6 @@
+backend:
+  name: github
+  repo: penelitionlien/penelitionlien.github.io
+  branch: main
+publish_mode: editorial_workflow
+media_folder: "assets/images/uploads"
