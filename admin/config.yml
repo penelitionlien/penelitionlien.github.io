@@ -6,11 +6,51 @@ publish_mode: editorial_workflow
 media_folder: "assets/images/uploads"
 
 collections:
-  - name: "posts"
-    label: "Post"
+  label: "Posts"
+    name: "posts"
     folder: "_posts"
-    filter:
-      field: language
-      value: en
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    preview_path: "{{title}}"
+    extension: "md"
     fields:
-      - {label: "Language", name: "language"}
+      - label: "Publish Date"
+        name: "date"
+        widget: "datetime"
+        format: "YYYY-MM-DD HH:mm:ss"
+      - label: "Layout"
+        name: "layout"
+        widget: "hidden"
+        default: "post"
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Subtitle"
+        name: "subtitle"
+        widget: "string"
+        required: false
+      - label: "Description"
+        name: "description"
+        hint: "This will be used across the pages and for search engines."
+        widget: "string"
+      - label: "Featured Image"
+        name: "image"
+        widget: "image"
+        allow_multiple: false
+        required: false
+      - label: "Optimized Image"
+        name: "optimized_image"
+        widget: "image"
+        allow_multiple: false
+        required: false
+        hint: "You can set an optimized image version to show on the home page"
+      - label: "Category"
+        name: "category"
+        widget: "relation"
+        collection: "categories"
+        searchFields: ["title"]
+        valueField: "slug"
+        displayFields: ["title"]
+      - label: "Tags"
+        name: "tags"
+        hint: "Separate with commas. These will also be used as keywords for search engines."
