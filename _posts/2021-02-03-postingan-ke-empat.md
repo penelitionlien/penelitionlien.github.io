@@ -4,7 +4,7 @@ title: postingan ke empat
 author: postkomik
 categories: cemplon
 tags: cemplon
-image: /assets/images/uploads/download.jpeg
+image: https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?ixid=MXwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80
 beforetoc: Lorem Ipsum is simply dummy text of the printing and typesetting
   industry. Lorem Ipsum has been the industry's standard dummy text ever since
   the
