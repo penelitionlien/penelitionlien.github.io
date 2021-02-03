@@ -30,14 +30,21 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Categories", name: "categories", widget: "string"}
-      - {label: "Tags", name: "tags", widget: "string"}
+      - {label: "Tags", name: "tags", widget: "select"}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "BeforeToc", name: "beforetoc", widget: "string"}
       - {label: "Toc", name: "toc", widget: "true"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
-      
-      
       - {label: "Body", name: "body", widget: "markdown"}    
+      
+  - label: "Tags"
+    name: "tags"
+    widget: "select"
+    multiple: true
+    min: 1
+    max: 3
+    options: ["Design", "UX", "Dev"]
+    default: ["Design"]
       
       
