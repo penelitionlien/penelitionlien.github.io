@@ -45,7 +45,7 @@ collections:
     
     multiple: true
   
-    options: ["string", "string", "string"]
+    options: ["blog", "blog", "blog"]
   
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "tags"}
