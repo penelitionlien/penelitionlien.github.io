@@ -1,13 +1,17 @@
 ---
-
 layout: post
-title: "Tata Cara Sholat Jenazah"
+title: Tata Cara Sholat Jenazah
 author: postkomik
-categories: [ Artikel ]
-tags: [ Artikel ]
+categories:
+  - Artikel
+tags:
+  - Artikel
 image: https://4.bp.blogspot.com/-vVbYk033SQw/Uwi2pJENaXI/AAAAAAAABlw/-HeM4C9F-3U/s1600/1490rere.jpg
-beforetoc: "shalat jenazah adalah fardu kifayah artinya jika sudah ada yang menjalankan maka kewajiaban melakukannya pada daerah sekiranya gugur"
+beforetoc: shalat jenazah adalah fardu kifayah artinya jika sudah ada yang
+  menjalankan maka kewajiaban melakukannya pada daerah sekiranya gugur
 toc: true
+date: 2021-02-03T19:43:34.026Z
+rating: 4
 ---
 
 
