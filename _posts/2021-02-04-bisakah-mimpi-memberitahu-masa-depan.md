@@ -1,0 +1,41 @@
+---
+layout: post
+title: Bisakah mimpi memberitahu masa depan?
+author: postkomik
+categories: Mimpi
+tags: Mimpi
+image: https://images.unsplash.com/photo-1591522811280-a8759970b03f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
+beforetoc: "Banyak yang telah ditulis tentang mimpi dan arti atau tujuannya.
+  Umat ​​manusia telah terpesona dengan mimpi kita sejak pemimpi pertama
+  terbangun dan bertanya-tanya tentang apa arti penglihatan mereka. Sejak zaman
+  kuno "
+date: 2021-02-04T04:56:39.578Z
+rating: 5
+---
+Banyak yang telah ditulis tentang mimpi dan arti atau tujuannya. Umat ​​manusia telah terpesona dengan mimpi kita sejak pemimpi pertama terbangun dan bertanya-tanya tentang apa arti penglihatan mereka. Sejak zaman kuno kita telah melihat impian kita untuk menemukan tanda-tanda masa depan kita. Mimpi tertulis pertama yang kita ketahui terjadi pada 4000 SM. Tulisan paling awal yang kita miliki tentang mimpi terutama adalah teks tentang makna religius dan spiritualnya.
+
+Kebanyakan orang akan menghabiskan sekitar sepertiga dari hidupnya untuk tidur. Impian kita adalah bagian nyata dari kita, tetapi terlalu sering diabaikan. Mimpi bisa memberi kita wawasan dan pemahaman tentang kehidupan pribadi kita. Mereka akan membantu kita memahami masa lalu, masa kini, dan terkadang masa depan kita. Yang perlu kita lakukan adalah memperhatikan impian kita dan mengenalnya.
+
+Mimpi bisa menjadi pesan untuk masa depan.
+
+Kami memiliki berbagai jenis mimpi. Seringkali mimpi kita terdiri dari perumpamaan dari pikiran dan / atau pengalaman pribadi kita yang paling mendesak. Namun terkadang, impian kita bisa menjadi istimewa. Impian kita dapat berkomunikasi dengan kita jika kita mengizinkannya juga. Yang kita butuhkan hanyalah mendengarkan.
+
+Saya percaya bahwa ada dua jenis utama mimpi profetik.
+
+Mereka yang datang kepada kita dari diri kita yang "lebih dalam", yang jauh lebih sadar akan hal-hal tertentu daripada kita pada tingkat kesadaran, dan mereka yang mungkin berasal dari sumber "luar".
+
+Ini adalah contoh dari pengalaman mimpi saya sendiri:
+
+Saya memimpikan kematian. Yang bisa saya ingat dari mimpi itu adalah melihat sebuah tangan tergeletak di atas kerikil. Hal yang paling mencolok adalah cincin di tangannya. Itu cincinku. Saya mengenalinya tanpa keraguan. Meskipun ini adalah satu-satunya gambaran yang dapat saya ingat dari mimpi buruk saya tahu bahwa mimpi itu tentang kematian. Saya bisa merasakannya dengan kuat ketika saya bangun. Aku hampir melupakan kejadian dalam mimpi itu tapi emosinya masih hidup.
+
+Cincin itu adalah cincin Kamp Pelatihan Angkatan Darat yang dibuat sangat mirip dengan cincin kelas. Setelah aku bermimpi, aku tidak pernah memakainya lagi. Akhirnya saya menjualnya ke teman saya yang pernah menghadiri kamp pelatihan yang sama. Beberapa tahun kemudian saya menerima telepon. Teman saya telah dibunuh. Dia ditemukan terbaring di batu dan tanah dengan cincin di tangannya.
+
+Apakah mimpi saya memperingatkan saya sebelumnya tentang acara ini? Saya pikir itu kemungkinan. Apa yang mimpi itu coba sampaikan kepadaku? Saya berasumsi bahwa mimpi itu tentang kematian saya. Saya juga berasumsi bahwa cincin itu entah bagaimana menjadi bagian dari kematian saya. Saya berhenti memakai cincin itu seolah-olah itu akan mencegah kematian yang sudah diperingatkan. Mungkin mimpi itu hanya memberi tahu saya bahwa teman saya akan mati dengan cincin di tangannya.
+
+Kapanpun kita memiliki mimpi yang kita anggap profetik atau memiliki "makna", kita dihadapkan pada tugas yang sulit untuk menafsirkan apa arti mimpi itu. Simbol Mimpi paling sering memiliki makna yang sangat pasti tetapi makna ini dapat sangat bervariasi dari satu orang ke orang lainnya. Itulah mengapa kita tidak bisa terlalu mengandalkan definisi yang diberikan dalam Kamus Simbol Mimpi.
+
+Untuk memahami makna simbol dalam mimpi kita sendiri, kita harus mencapai pemahaman yang lebih baik dan lebih dalam tentang diri kita sendiri. Kita harus mempelajari arti simbol-simbol ini bagi kita karena begitulah cara pikiran kita yang bermimpi melihatnya.
+
+Apa pun dalam mimpimu bisa menjadi simbol. Contoh simbol dalam mimpi adalah ular. Seekor ular dapat memiliki banyak arti berbeda bagi orang yang berbeda. Seperti semua simbol mimpi lainnya, mereka juga dapat memiliki arti yang berbeda untuk orang yang sama pada waktu yang berbeda dalam hidup mereka. Anda juga harus melihat simbol dalam konteks kemunculannya. Simbol lain apa yang ada dalam mimpi itu?
+
+Cara terbaik untuk mendapatkan pemahaman yang lebih baik tentang apa arti simbol mimpi bagi Anda adalah dengan mengembangkan kamus simbol mimpi Anda sendiri. Buat jurnal mimpi sedetail mungkin. Jangan hanya menulis narasi tentang apa yang terjadi, tetapi catat juga perasaan dan emosi Anda. Ketika Anda terus menulis di jurnal Anda dan membaca kembali entri Anda sebelumnya, Anda akan mulai melihat kesejajaran dengan impian dan kehidupan Anda. Secara bertahap Anda akan dapat mengenali apa yang sebenarnya dikatakan simbol-simbol dalam mimpi Anda kepada Anda.
