@@ -91,7 +91,7 @@
   
   
       <url>
-        <loc>/category/cemplon/</loc>
+        <loc>/category/hipnosis/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -99,7 +99,7 @@
   
   
       <url>
-        <loc>/category/artikel/</loc>
+        <loc>/category/life/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -107,13 +107,97 @@
   
   
       <url>
-        <loc>/tata-cara-sholat-jenazah/</loc>
+        <loc>/category/bahagia/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>/category/mimpi/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>/category/kepribadian/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>/category/backlink/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>/category/profile/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>/page2/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>/backlink-profile/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
       <url>
-        <loc>/postingan-ke-empat/</loc>
+        <loc>/sumbu-gangguan-kepribadian/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>/sejarah-singkat-hipnosis/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>/gambaran-umum-tentang-hipnosis/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>/bisakah-mimpi-memberitahu-masa-depan/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>/berkomitment-untuk-bahagia/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>/apakah-kamu-takut-mati/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>/apakah-anda-di-bawah-kendali-pikiran-anda/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
