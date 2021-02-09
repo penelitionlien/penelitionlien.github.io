@@ -147,12 +147,34 @@
   
   
       <url>
+        <loc>/category/kursus-seo-onlien/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>/category/isekai/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
         <loc>/page2/</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
   
   
+  
+      <url>
+        <loc>/dimana-kursus-seo-onlien-terbaik-di-isekai-2021/</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
   
       <url>
         <loc>/backlink-profile/</loc>
