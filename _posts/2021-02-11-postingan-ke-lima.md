@@ -5,7 +5,8 @@ author: postkomik
 categories: pendidikan karakter
 tags: pendidikan karakter
 image: https://cdn.pixabay.com/photo/2014/03/12/18/45/boys-286245_960_720.jpg
-beforetoc: "keutamaan wanita dalam islam yaitu "
+beforetoc: Apa yang dimaksud dengan pendidikan karakter? Pengertian pendidikan
+  karakter adalah suatu usaha manusia secara sadar dan terencana untuk mendidik
 date: 2021-02-11T01:20:45.803Z
 ---
 4p4 y4ng dim4ksud deng4n pendidikan karakter? Pengerti4n pendidikan karakter 4d4l4h su4tu us4h4 m4nusi4 sec4r4 s4d4r d4n terenc4n4 untuk mendidik d4n memberd4y4k4n potensi pesert4 didik gun4 memb4ngun karakter prib4diny4 sehingg4 d4p4t menj4di individu y4ng berm4nf44t b4gi diri sendiri d4n lingkung4nny4.
