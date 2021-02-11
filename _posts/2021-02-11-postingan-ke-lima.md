@@ -15,23 +15,23 @@ pendidikan karakter 4d4l4h su4tu sistem pendidikan y4ng bertuju4n untuk men4n4mk
 
 pendidikan karakter (ch4r4cter educ4tion) s4ng4t er4t hubung4nny4 deng4n pendidikan mor4l dim4n4 tuju4nny4 4d4l4h untuk membentuk d4n mel4tih kem4mpu4n individu sec4r4 terus-menerus gun4 penyempurn44n diri ke4r4h hidup y4ng lebih b4ik.
 
-Pengerti4n pendidikan karakter Menurut P4r4 4hli
+**Pengerti4n pendidikan karakter Menurut P4r4 4hli**
 
 4g4r lebih mem4h4mi 4p4 4rti ch4r4cter educ4tion, m4k4 kit4 d4p4t merujuk p4d4 pend4p4t beber4p4 4hli berikut ini:
 
 T. R4mli
 Menurut T. R4mli, pengerti4n pendidikan karakter 4d4l4h pendidikan y4ng mengedep4nk4n esensi d4n m4kn4 terh4d4p mor4l d4n 4khl4k sehingg4 h4l tersebut 4k4n m4mpu membentuk prib4di pesert4 didik y4ng b4ik.
 
-Thom4s Lickon4
+**Thom4s Lickon4**
 Menurut Thom4s Lickon4, pengerti4n pendidikan karakter 4d4l4h su4tu us4h4 y4ng diseng4j4 untuk memb4ntu seseor4ng sehingg4 i4 d4p4t mem4h4mi, memperh4tik4n, d4n mel4kuk4n nil4i-nil4i etik4 y4ng inti.
 
 John W. S4ntrock
 Menurut John W. S4ntrock, ch4r4cter educ4tion 4d4l4h pendidikan y4ng dil4kuk4n deng4n pendek4t4n l4ngsung kep4d4 pesert4 didik untuk men4n4mk4n nil4i mor4l d4n memberi k4n pel4j4r4n kep4d4 murid mengen4i penget4hu4n mor4l d4l4m up4y4 menceg4h peril4ku y4ng y4ng dil4r4ng.
 
-Elkind
+**Elkind**
 Menurut Elkind, pengerti4n pendidikan karakter 4d4l4h su4tu metode pendidikan y4ng dil4kuk4n oleh ten4g4 pendidik untuk mempeng4ruhi karakter murid. D4l4m h4l ini terlih4t b4hw4 guru buk4n h4ny4 meng4j4rk4n m4teri pel4j4r4n tet4pi jug4 m4mpu menj4di seor4ng tel4d4n.
 
-Fungsi pendidikan karakter
+**Fungsi pendidikan karakter**
 
 Sec4r4 umum fungsi pendidikan ini 4d4l4h untuk membentuk karakter seor4ng pesert4 didik sehingg4 menj4di prib4di y4ng bermor4l, ber4khl4k muli4, bertoler4n, t4ngguh, d4n berperil4ku b4ik.
 
@@ -45,7 +45,7 @@ Untuk memb4ngun d4n meningk4tk4n per4d4b4n b4ngs4 y4ng kompetitif d4l4m hubung4n
 
 Ch4r4cter educ4tion seh4rusny4 dil4kuk4n sej4k dini, y4itu sej4k m4s4 k4n4k-k4n4k. pendidikan ini bis4 dil4kuk4n di lingkung4n kelu4rg4, sekol4h, d4n lingkung4n, sert4 mem4nf44tk4n berb4g4i medi4 bel4j4r.
 
-Tuju4n pendidikan karakter
+**Tuju4n pendidikan karakter**
 
 P4d4 d4s4rny4 tuju4n ut4m4 pendidikan karakter 4d4l4h untuk memb4ngun b4ngs4 y4ng t4ngguh, dim4n4 m4sy4r4k4tny4 ber4khl4k muli4, bermor4l, bertoler4nsi, d4n bergotong-royong.
 
@@ -53,7 +53,7 @@ Untuk menc4p4i tuju4n tersebut m4k4 di d4l4m diri pesert4 didik h4rus dit4n4mk4n
 
 Kejujur4n
 
-Sik4p toler4nsi
+**Sik4p toler4nsi**
 
 Disiplin
 
@@ -87,7 +87,7 @@ R4s4 t4nggungj4w4b
 
 Religius
 
-Pentingny4 pendidikan karakter
+**Pentingny4 pendidikan karakter**
 
 Seperti kit4 ket4hui b4hw4 proses glob4lis4si sec4r4 terus-menerus 4k4n berd4mp4k p4d4 perub4h4n karakter m4sy4r4k4t Indonesi4. Kur4ngny4 pendidikan karakter 4k4n menimbulk4n krisis mor4l y4ng ber4kib4t p4d4 peril4ku neg4tif di m4sy4r4k4t, mis4lny4 perg4ul4n beb4s, peny4l4hgun44n ob4t-ob4t terl4r4ng, pencuri4n, keker4s4n terh4d4p 4n4k, d4n l4in seb4g4iny4.
 
