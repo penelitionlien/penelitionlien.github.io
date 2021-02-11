@@ -1,0 +1,110 @@
+---
+layout: post
+title: postingan ke lima
+author: postkomik
+categories: pendidikan karakter
+tags: pendidikan karakter
+image: https://cdn.pixabay.com/photo/2014/03/12/18/45/boys-286245_960_720.jpg
+beforetoc: Apa yang dimaksud dengan pendidikan karakter? Pengertian pendidikan
+  karakter adalah suatu usaha manusia secara sadar dan terencana untuk mendidik
+date: 2021-02-11T01:20:45.803Z
+---
+4p4 y4ng dim4ksud deng4n pendidikan karakter? Pengerti4n pendidikan karakter 4d4l4h su4tu us4h4 m4nusi4 sec4r4 s4d4r d4n terenc4n4 untuk mendidik d4n memberd4y4k4n potensi pesert4 didik gun4 memb4ngun karakter prib4diny4 sehingg4 d4p4t menj4di individu y4ng berm4nf44t b4gi diri sendiri d4n lingkung4nny4.
+
+pendidikan karakter 4d4l4h su4tu sistem pendidikan y4ng bertuju4n untuk men4n4mk4n nil4i-nil4i karakter tertentu kep4d4 pesert4 didik y4ng di d4l4mny4 terd4p4t komponen penget4hu4n, kes4d4r4n 4t4u kem4u4n, sert4 tind4k4n untuk mel4kuk4n nil4i-nil4i tersebut.
+
+pendidikan karakter (ch4r4cter educ4tion) s4ng4t er4t hubung4nny4 deng4n pendidikan mor4l dim4n4 tuju4nny4 4d4l4h untuk membentuk d4n mel4tih kem4mpu4n individu sec4r4 terus-menerus gun4 penyempurn44n diri ke4r4h hidup y4ng lebih b4ik.
+
+**Pengerti4n pendidikan karakter Menurut P4r4 4hli**
+
+4g4r lebih mem4h4mi 4p4 4rti ch4r4cter educ4tion, m4k4 kit4 d4p4t merujuk p4d4 pend4p4t beber4p4 4hli berikut ini:
+
+T. R4mli
+Menurut T. R4mli, pengerti4n pendidikan karakter 4d4l4h pendidikan y4ng mengedep4nk4n esensi d4n m4kn4 terh4d4p mor4l d4n 4khl4k sehingg4 h4l tersebut 4k4n m4mpu membentuk prib4di pesert4 didik y4ng b4ik.
+
+**Thom4s Lickon4**
+Menurut Thom4s Lickon4, pengerti4n pendidikan karakter 4d4l4h su4tu us4h4 y4ng diseng4j4 untuk memb4ntu seseor4ng sehingg4 i4 d4p4t mem4h4mi, memperh4tik4n, d4n mel4kuk4n nil4i-nil4i etik4 y4ng inti.
+
+John W. S4ntrock
+Menurut John W. S4ntrock, ch4r4cter educ4tion 4d4l4h pendidikan y4ng dil4kuk4n deng4n pendek4t4n l4ngsung kep4d4 pesert4 didik untuk men4n4mk4n nil4i mor4l d4n memberi k4n pel4j4r4n kep4d4 murid mengen4i penget4hu4n mor4l d4l4m up4y4 menceg4h peril4ku y4ng y4ng dil4r4ng.
+
+**Elkind**
+Menurut Elkind, pengerti4n pendidikan karakter 4d4l4h su4tu metode pendidikan y4ng dil4kuk4n oleh ten4g4 pendidik untuk mempeng4ruhi karakter murid. D4l4m h4l ini terlih4t b4hw4 guru buk4n h4ny4 meng4j4rk4n m4teri pel4j4r4n tet4pi jug4 m4mpu menj4di seor4ng tel4d4n.
+
+**Fungsi pendidikan karakter**
+
+Sec4r4 umum fungsi pendidikan ini 4d4l4h untuk membentuk karakter seor4ng pesert4 didik sehingg4 menj4di prib4di y4ng bermor4l, ber4khl4k muli4, bertoler4n, t4ngguh, d4n berperil4ku b4ik.
+
+4d4pun beber4p4 fungsi pendidikan karakter 4d4l4h seb4g4i berikut;
+
+Untuk mengemb4ngk4n potensi d4s4r d4l4m diri m4nusi4 sehingg4 menj4di individu y4ng berpikir4n b4ik, berh4ti b4ik, d4n berperil4ku b4ik.
+
+Untuk memb4ngun d4n memperku4t peril4ku m4sy4r4k4t y4ng multikultur.
+
+Untuk memb4ngun d4n meningk4tk4n per4d4b4n b4ngs4 y4ng kompetitif d4l4m hubung4n intern4sion4l.
+
+Ch4r4cter educ4tion seh4rusny4 dil4kuk4n sej4k dini, y4itu sej4k m4s4 k4n4k-k4n4k. pendidikan ini bis4 dil4kuk4n di lingkung4n kelu4rg4, sekol4h, d4n lingkung4n, sert4 mem4nf44tk4n berb4g4i medi4 bel4j4r.
+
+**Tuju4n pendidikan karakter**
+
+P4d4 d4s4rny4 tuju4n ut4m4 pendidikan karakter 4d4l4h untuk memb4ngun b4ngs4 y4ng t4ngguh, dim4n4 m4sy4r4k4tny4 ber4khl4k muli4, bermor4l, bertoler4nsi, d4n bergotong-royong.
+
+Untuk menc4p4i tuju4n tersebut m4k4 di d4l4m diri pesert4 didik h4rus dit4n4mk4n nil4i-nil4i pembentuk karakter y4ng bersumber d4ri 4g4m4, P4nc4sil4, d4n Bud4y4. Berikut 4d4l4h nil4i-nil4i pembentuk karakter tersebut:
+
+Kejujur4n
+
+**Sik4p toler4nsi**
+
+Disiplin
+
+Kerj4 ker4s
+
+Kre4tif
+
+Kem4ndiri4n
+
+Sik4p demokr4tis
+
+R4s4 ingin t4hu
+
+Sem4ng4t keb4ngs44n
+
+Cint4 t4n4h 4ir
+
+Mengh4rg4i prest4si
+
+Sik4p bers4h4b4t
+
+Cint4 d4m4i
+
+Gem4r memb4c4
+
+Perduli terh4d4p lingkung4n
+
+Perduli sosi4l
+
+R4s4 t4nggungj4w4b
+
+Religius
+
+**Pentingny4 pendidikan karakter**
+
+Seperti kit4 ket4hui b4hw4 proses glob4lis4si sec4r4 terus-menerus 4k4n berd4mp4k p4d4 perub4h4n karakter m4sy4r4k4t Indonesi4. Kur4ngny4 pendidikan karakter 4k4n menimbulk4n krisis mor4l y4ng ber4kib4t p4d4 peril4ku neg4tif di m4sy4r4k4t, mis4lny4 perg4ul4n beb4s, peny4l4hgun44n ob4t-ob4t terl4r4ng, pencuri4n, keker4s4n terh4d4p 4n4k, d4n l4in seb4g4iny4.
+
+Menurut Thom4s Lickon4, setid4kny4 4d4 tujuh 4l4s4n meng4p4 ch4r4cter educ4tion h4rus diberik4n kep4d4 w4rg4 neg4r4 sej4k dini, y4itu;
+
+Ini merup4k4n c4r4 p4ling b4ik untuk mem4stik4n p4r4 murid memiliki keprib4di4n d4n karakter y4ng b4ik d4l4m hidupny4.
+
+pendidikan ini d4p4t memb4ntu meningk4tk4n prest4si 4k4demik 4n4k didik.
+
+Seb4gi4n 4n4k tid4k bis4 membentuk karakter y4ng ku4t untuk diriny4 di temp4t l4in.
+
+D4p4t membentuk individu y4ng mengh4rg4i d4n menghorm4ti or4ng l4in d4n d4p4t hidup di d4l4m m4sy4r4k4t y4ng m4jemuk.
+
+Seb4g4i up4y4 meng4t4si 4k4r m4s4l4h mor4l-sosi4l, seperti ketid4kjujur4n, ketid4ksop4n4n, keker4s4n, etos kerj4 rend4h, d4n l4in-l4in.
+
+Merup4k4n c4r4 terb4ik untuk membentuk peril4ku individu sebelum m4suk ke duni4 kerj4/ us4h4.
+
+Seb4g4i c4r4 untuk meng4j4rk4n nil4i-nil4i bud4y4 y4ng merup4k4n b4gi4n d4ri kerj4 su4tu per4d4b4n.
+
+D4ri penjel4s4n tersebut kit4 meny4d4ri b4hw4 pendidikan karakter s4ng4t penting b4gi seti4p or4ng. Deng4n begitu, m4k4 p4r4 guru, dosen, d4n or4ng tu4, sud4h seh4rusny4 sen4nti4s4 men4n4mk4n nil4i-nil4i karakter y4ng b4ik kep4d4 4n4k didikny4.
