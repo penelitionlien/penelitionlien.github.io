@@ -4,7 +4,7 @@ title: Haciman memulai kursus seo online di dunia isekai
 author: postkomik
 categories: seo
 tags: kursus
-image: /assets/images/uploads/download.jpeg
+image: /assets/images/uploads/google.png
 beforetoc: ini adalah cara kurusus seo online terbaik di dunia isekai maka dari
   itu memulai nya sangat mudah dan perhatikan baik baik
 date: 2021-02-15T07:53:50.236Z
