@@ -175,4 +175,134 @@ m3n1km4t1 s3t14p d3t1k k3h1dup4n. L3burk4n 3gomu, kursus seo online k34ngkuh4nmu
 
 pul4ng k3 rum4h, untuk m3ngul4ng1 p3ng4l4m4n m4l4m s3b3lumny4. Konon, 14 m4s1h m3ng4l1r t3rus. 14 t1d4k p3rn4h lup4 h1dup d4l4m k3k1n14n. 1tul4h s3b4bny4, 14 s3l4lu b4h4g14, s3l4lu t3n4ng, s3l4lu H1DUP ! kursus seo online
 
-<!-- /wp:paragraph -->
+K1s4h t3nt4ng s3or4ng seo g4d1s k3c1l y4ng c4nt1k y4ng m3m1l1k1 s3p4s4ng bol4 m4t4 y4ng 1nd4h d4n h4t1 y4ng lugu d4n polos. D14 4d4l4h s3or4ng y4t1m p14tu d4n h4ny4 s3mp4t h1dup d1 dun14 1n1 s3l4m4 d3l4p4n t4hun. S4tu k4t4 t3r4kh1r y4ng 14 t1ngg4lk4n 4d4l4h 4ku p3rn4h d4t4ng d4n 4ku 
+
+
+
+
+
+s4ng4t p3nurut. 4n4k 1n1 r3l4 m3l3p4sk4n p3ngob4t4n, p4d4h4l s3b3lumny4 d14 t3l4h m3m1l1k1 d4n4 p3ngob4t4n s3b4ny4k 540.000 seo dol4r y4ng d1d4p4t d4r1 p3rkumpul4n or4ng Ch1n3s3 s3luruh dun14. D4n m3mb4g1 d4n4 t3rs3but m3nj4d1 tujuh b4g14n, y4ng d1b4g1k4n k3p4d4 tujuh 4n4k k3c1l 
+
+
+
+
+
+y4ng jug4 s3d4ng b3rju4ng m3ngh4d4p1 seo k3m4t14n. D4n d14 r3l4 m3l3p4sk4n p3ngob4t4nny4. B3g1tu l4h1r d14 sud4h t1d4k m3ng3t4hu1 s14p4 or4ng tu4 k4ndungny4. D14 h4ny4 m3m1l1k1 s3or4ng p4p4 y4ng m3ng4dops1ny4. P4p4ny4 b3rumur 30 t4hun y4ng b3rt3mp4t t1ngg4l d1 prov1ns1 
+
+
+
+
+
+Sh3 Cu4n k3c4m4t4n Su4ng L1u, kot4 S4ng X1n Zh3n Yun Y4 Chun 3r Cu. K4r3n4 m1sk1n, m4k4 s3l4m4 1n1 14 t1d4k m3n3muk4n p4s4ng4n h1dupny4. K4l4u m4s1h h4rus m3ng4dops1 4n4k k3c1l 1n1, mungk1n t1d4k 4d4 l4g1 or4ng y4ng m4u seo d1l4m4r ol3hny4. P4d4 t4ngg4l 30 Nov3mb3r 1996, tgl 
+
+
+
+
+
+20 bln 10 1ml3k, 4d4l4h s44t d1 m4n4 p4p4ny4 m3n3muk4n 4n4k k3c1l t3rs3but d1 4t4s h4mp4r4n rumput. D1 s4n4l4h p4p4ny4 m3n3muk4n s3or4ng b4y1 k3c1l y4ng s3d4ng k3d1ng1n4n. P4d4 s44t m3n3muk4n 4n4k 1n1, d1 d4d4ny4 t3rd4p4t s3l3mb4r k4rtu k3c1l t3rtul1s, 20 Nov3mb3r j4m 12. 
+
+
+
+
+
+M3l1h4t 4n4k k3c1l 1n1 m3n4ng1s d3ng4n su4r4 t4ng1s4nny4 sud4h mul41 m3l3m4h. P4p4ny4 b3rp1k1r k4l4u t1d4k 4d4 or4ng y4ng m3mp3rh4t1k4nny4, m4k4 k4p4n s4j4 b4y1 1n1 b1s4 m3n1ngg4l. D3ng4n b3r4t h4t1 p4p4ny4 seo m3m3luk b4y1 t3rs3but, d3ng4n m3ngh3l4 n4f4s d4n 
+
+
+
+
+
+b3rk4t4, "s4y4 m4k4n 4p4, m4k4 k4mu jug4 1kut 4p4 y4ng s4y4 m4k4n". K3mud14n p4p4ny4 m3mb3r1k4n d14 n4m4 Yu Yu4n. 1n1 4d4l4h seo k1s4h s3or4ng p3mud4 y4ng b3lum m3n1k4h y4ng m3mb3s4rk4n s3or4ng 4n4k, t1d4k 4d4 4S1 d4n jug4 t1d4k m4mpu m3mb3l1 susu bubuk, h4ny4 
+
+
+
+
+
+m4mpu m3mb3r1 m4k4n b4y1 t3rs3but d3ng4n 41r t4j1n (41r b3r4s). M4k4 d4r1 k3c1l, 4n4k 1n1 tumbuh m3nj4d1 l3m4h d4n s4k1t-s4k1t4n. T3t4p1 4n4k 1n1 s4ng4t p3nurut d4n s4ng4t p4tuh. Mus1m s1l1h b3rg4nt1, Yu Yu4n pun tumbuh d4n b3rt4mb4h b3s4r s3rt4 m3m1l1k1 k3p1nt4r4n y4ng lu4r 
+
+
+
+
+
+b14s4. P4r4 t3t4ngg4 s3r1ng m3muj1 Yu Yu4n s4ng4t p1nt4r, w4l4upun d4r1 k3c1l s3r1ng s4k1t-s4k1t4n d4n m3r3k4 s4ng4t m3nyuk41 Yu seo Yu4n. D1 t3ng4h k3t4kut4n d4n k3c3m4s4n p4p4ny4, Yu Yu4n p3l4n-p3l4n tumbuh d3w4s4. Yu Yu4n y4ng h1dup d4l4m k3sus4h4n m3m4ng lu4r b14s4, mul41 
+
+
+
+
+
+d4r1 umur l1m4 t4hun, d14 sud4h m3mb4ntu p4p4 m3ng3rj4k4n p3k3rj44n rum4h. M3ncuc1 b4ju, m3m4s4k n4s1 d4n m3motong rumput. S3t14p h4l d14 k3rj4k4n d3ng4n b41k. D14 s4d4r d14 b3rb3d4 d3ng4n 4n4k-4n4k l41n. 4n4k-4n4k l41n seo m3m1l1k1 s3p4s4ng or4ng tu4, s3d4ngk4n d14 h4ny4 
+
+
+
+
+
+m3m1l1k1 s3or4ng p4p4. K3lu4rg4 1n1 h4ny4 m3ng4nd4lk4n d14 d4n p4p4 y4ng s4l1ng m3nop4ng. D14 h4rus m3nj4d1 s3or4ng 4n4k y4ng p3nurut d4n t1d4k bol3h m3mbu4t p4p4 m3nj4d1 s3d1h d4n m4r4h. P4d4 s44t d14 m4suk s3kol4h d4s4r, d14 s3nd1r1 sud4h s4ng4t m3ng3rt1, h4rus g14t b3l4j4r 
+
+
+
+
+
+d4n m3nj4d1 ju4r4 d1 s3kol4h. 1n1l4h y4ng b1s4 m3mbu4t p4p4ny4 y4ng t1d4k b3rp3nd1d1k4n m3nj4d1 b4ngg4 d1 d3s4ny4. D14 t1d4k p3rn4h m3ng3c3w4k4n 110p4p4ny4, d14 pun b3rny4ny1 untuk p4p4ny4. S3t14p h4l y4ng lucu y4ng seo t3rj4d1 d1 s3kol4hny4 d1c3r1t4k4n k3p4d4 p4p4ny4. 
+
+
+
+
+
+K4d4ng-k4d4ng d14 b1s4 n4k4l d3ng4n m3ng3lu4rk4n so4l-so4l y4ng sus4h untuk m3nguj1 p4p4ny4. S3t14p k4l1 m3l1h4t s3nyum4n p4p4ny4, d14 m3r4s4 pu4s d4n b4h4g14. W4l4upun t1d4k s3p3rt1 4n4k-4n4k l41n y4ng m3m1l1k1 m4m4, t3t4p1 b1s4 h1dup b4h4g14 d3ng4n p4p4, 14 sud4h s4ng4t 
+
+
+
+
+
+b3rb4h4g14. Mul41 d4r1 bul4n M31 2005 Yu Yu4n mul41 m3ng4l4m1 m1m1s4n. P4d4 su4tu p4g1, s44t Yu Yu4n s3d4ng m3ncuc1 muk4, 14 m3ny4d4r1 b4hw4 41r cuc1 muk4ny4 sud4h p3nuh d3ng4n d4r4h y4ng t3rny4t4 b3r4s4l d4r1 h1dungny4. D3ng4n b3rb4g41 c4r4, t1d4k b1s4 m3ngh3nt1k4n 
+
+
+
+
+
+p3nd4r4h4n t3rs3but s3h1ngg4 p4p4ny4 m3mb4w4 Yu Yu4n k3 pusk3sm4s d3s4 untuk d1sunt1k. T3t4p1 s4y4ngny4 d4r1 b3k4s sunt1k4n 1tu jug4 m3ng3rlu4rk4n d4r4h d4n t1d4k m4u b3rh3nt1. D1 p4h4ny4 mul41 b3rmuncul4n b1nt1k- seo b1nt1k m3r4h. Dokt3r t3rs3but m3ny4r4nk4n p4p4ny4 untuk 
+
+
+
+
+
+m3mb4w4 Yu Yu4n k3 rum4h s4k1t untuk d1p3r1ks4. B3g1tu t1b4 d1 rum4h s4k1t, Yu Yu4n t1d4k m3nd4p4tk4n nomor k4r3n4 4ntr14n sud4h p4nj4ng. Yu Yu4n h4ny4 b1s4 duduk s3nd1r1 d1 kurs1 y4ng p4nj4ng untuk m3nutup1 h1dungny4. seo D4r4h y4ng k3lu4r d4r1 h1dungny4 b4g41k4n 41r y4ng 
+
+
+
+t3rus m3ng4l1r d4n m3m3r4h1 l4nt41. K4r3n4 p4p4ny4 m3r4s4 t1d4k 3n4k, k3mud14n m3ng4mb1l s3bu4h b4skom k3c1l untuk m3n4mpung d4r4h y4ng k3lu4r d4r1 h1dung Yu Yu4n. T1d4k s4mp41 s3puluh m3n1t, b4skom y4ng k3c1l t3rs3but sud4h p3nuh b3r1s1 d4r4h y4ng k3lu4r d4r1 h1dung Yu 
+
+
+
+
+
+Yu4n. Dokt3r y4ng m3l1h4t k34d444n 1n1 c3p4t-c3p4t m3mb4w4 Yu Yu4n untuk d1p3r1ks4. S3t3l4h d1p3r1ks4, dokt3r m3ny4t4k4n b4hw4 Yu Yu4n t3rk3n4 L3uk1m14 g4n4s. P3ngob4t4n p3ny4k1t t3rs3but s4ng4t m4h4l y4ng m3m3rluk4n b14y4 s3b3s4r $ 300.000. P4p4ny4 mul41 c3m4s m3l1h4t 
+
+
+
+
+
+4n4kny4 y4ng t3rb4r1ng l3m4h seo d1 r4nj4ng. P4p4ny4 h4ny4 m3m1l1k1 s4tu n14t y41tu m3ny3l4m4tk4n 4n4kny4. D3ng4n b3rb4g41 c4r4 m3m1nj4m u4ng k3 s4n4k s4ud4r4 d4n t3m4n d4n t3rny4t4, u4ng y4ng t3rkumpul s4ng4tl4h s3d1k1t. P4p4ny4 4kh1rny4 m3ng4mb1l k3putus4n untuk 
+
+
+
+
+
+m3nju4l rum4hny4 y4ng m3rup4k4n h4rt4 s4tu-s4tuny4. T4p1 k4r3n4 rum4hny4 t3rl4lu kumuh, d4l4m w4ktu y4ng s1ngk4t t1d4k b1s4 m3n3muk4n s3or4ng p3mb3l1. M3l1h4t m4t4 p4p4ny4 y4ng s3d1h d4n p1p1 y4ng k14n h4r1 k14n kurus. seo D4l4m h4t1 Yu Yu4n m3r4s4 s3d1h. P4d4 su4tu h4r1 Yu Yu4n 
+
+
+
+
+
+m3n4r1k t4ng4n p4p4ny4, 41r m4t4 pun m3ng4l1r d1 k4l4 k4t4-k4t4 b3lum s3mp4t t3rlont4r. "P4p4 s4y4 1ng1n m4t1". P4p4ny4 d3ng4n p4nd4ng4n y4ng k4g3t m3l1h4t Yu Yu4n, "K4mu b4ru b3rumur 8 t4hun, k3n4p4 m4u m4t1". "S4y4 4d4l4h 4n4k y4ng d1pungut, s3mu4 or4ng b3rk4t4 ny4w4 s4y4 t4k 
+
+
+
+
+
+b3rh4rg4, t1d4kl4h cocok d3ng4n p3ny4k1t 1n1, b14rl4h s4y4 k3lu4r d4r1 rum4h s4k1t 1n1." P4d4 t4ngg4l 18 Jun1, Yu Yu4n m3w4k1l1 p4p4ny4 y4ng t1d4k m3ng3n4l huruf, m3n4nd4t4ng4n1 sur4t k3t3r4ng4n p3l3p4s4n p3r4w4t4n. seo 4n4k y4ng b3rumur d3l4p4n t4hun 1tu pun m3ng4tur s3g4l4 s3su4tu 
+
+
+
+
+
+y4ng b3rhubung4n d3ng4n p3m4k4m4nny4 s3nd1r1. H4r1 1tu jug4 s3t3l4h pul4ng k3 rum4h, Yu Yu4n y4ng s3j4k k3c1l t1d4k p3rn4h m3m1l1k1 p3rm1nt44n, h4r1 1tu m3m1nt4 du4 p3rmohon4n k3p4d4 p4p4ny4. D14 1ng1n m3m4k41 seo b4ju b4ru d4n b3rfoto. Yu Yu4n b3rk4t4 k3p4d4
