@@ -5,6 +5,8 @@ author: postkomik
 categories: domain
 tags: domain
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/DNS_schema.svg/1024px-DNS_schema.svg.png
+featured: true
+hidden: true
 beforetoc: Agar orang dapat mengakses situs web, mereka harus memasukkan nama
   domain terkait terlebih dahulu. Ini adalah kata atau frasa yang menunjukkan
   nama situs dan / atau meringkas tentang apa itu. Bahkan perusahaan hosting web

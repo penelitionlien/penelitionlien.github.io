@@ -1,8 +1,4 @@
-<div class="share">
-
- <!-- Go to www.addthis.com/dashboard to customize your tools -->
-
-
+<div class="share sticky-top sticky-top-offset">
     <p>
         Share
     </p>
@@ -18,21 +14,21 @@
                 <i class="fab fa-facebook-f"></i>
             </a>
         </li>
-        
-        
-        <li class="ml-1 mr-1">
-            <a target="_blank" href="https://api.whatsapp.com/send?text={{ page.url | absolute_url }}" onclick="window.open(this.href, 'whatsapp-share', 'width=550,height=435');return false;">
-              <i class="fab fa-whatsapp"></i>
-            </a>
-        </li>
 
         <li class="ml-1 mr-1">
             <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url }}" onclick="window.open(this.href, 'width=550,height=435');return false;">
-            
-            
                 <i class="fab fa-linkedin-in"></i>
             </a>
         </li>
 
     </ul>
+    {% if page.comments != false %}
+    <div class="sep">
+    </div>
+    <ul>
+        <li>
+        <a class="small smoothscroll" href="#disqus_thread"></a>
+        </li>
+    </ul>
+    {% endif %}
 </div>

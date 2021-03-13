@@ -46,7 +46,7 @@ POSTPATH="${BINPATH}/_posts"
 DIST_FOLDER="$POSTPATH"
 
 # Set your blog URL
-BLOG_URL="https://jekflix.rossener.com/"
+BLOG_URL="https://pejuang-onlien.github.io/"
 
 # Set your assets URL
 ASSETS_URL="assets/img/"
@@ -110,18 +110,14 @@ EOT
 initpost_content() {
 
 echo "---"
-echo "date: ${CURRENT_DATE} ${TIME}"
 echo "layout: post"
 echo "title: \"${POST_TITLE}\""
-echo "author: mas cemplon"
-echo "categories: [ Computers, Technology ]"
-echo "tags: [ Computers ]"
+echo "author: postkomik"
+echo "categories:"
 echo "image:"
-echo "beforetoc:"
+echo "beforetoc: \"${POST_TITLE}\""
 echo "toc: true"
-
 echo "---"
-
 }
 
 # Create file
@@ -160,4 +156,4 @@ main() {
 }
 
 # Initialize
-main $* 
+main $*

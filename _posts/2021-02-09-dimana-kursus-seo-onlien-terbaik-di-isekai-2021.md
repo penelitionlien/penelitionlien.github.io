@@ -6,6 +6,8 @@ author: postkomik
 categories: kursus seo onlien isekai 
 tags: kursus seo onlien di isekai 
 image: https://images.unsplash.com/photo-1591522811280-a8759970b03f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
+featured: true
+hidden: true
 beforetoc: "Dimana kurusus seo onlien terbaik saat di isekai 2021"
 toc: true
 ---
