@@ -1,12 +1,16 @@
 ---
 layout: post
-title:  "Blog For Fun"
-author: mas cemplon
-categories: [ Pendidikan ]
-tags: [ edukasi ]
+title: Blog For Fun
+author: postkomik
+categories:
+  - Pendidikan
+tags:
+  - edukasi
 image: assets/images/3.jpg
-beforetoc: "Blogging is becoming an increasingly popular way for entrepreneurs to earn a living online while doing something they really enjoy. In many cases."
+beforetoc: Blogging is becoming an increasingly popular way for entrepreneurs to
+  earn a living online while doing something they really enjoy. In many cases.
 toc: true
+date: 2021-04-03T19:50:40.129Z
 ---
 
 Blogging for Profit
