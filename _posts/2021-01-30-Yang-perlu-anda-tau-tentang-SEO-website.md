@@ -1,13 +1,17 @@
 ---
-date: 2021-01-30 17:44:53
 layout: post
-title: "Yang perlu anda tau tentang SEO website"
-author: mas cemplon
-categories: [ Website, SEO ]
-tags: [ Website, SEO ]
+title: Yang perlu anda tau tentang SEO website
+author: postkomik
+categories:
+  - Website
+  - SEO
+tags:
+  - Website
+  - SEO
 image: https://1.bp.blogspot.com/-h2Wt-NMxvnE/YBWXPGlLbII/AAAAAAAAOqY/a_J7QHgVQdAMEBg50-ja2lcyt8B77AP5wCLcBGAsYHQ/s1071/share.png
-beforetoc: "Yang perlu anda tau tentang SEO website"
+beforetoc: Yang perlu anda tau tentang SEO website
 toc: true
+date: 2021-01-30 17:44:53
 ---
 
  
