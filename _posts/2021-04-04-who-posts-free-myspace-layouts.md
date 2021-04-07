@@ -3,7 +3,7 @@ title: Who Posts Free MySpace Layouts?
 author: postkomik
 categories: Computers
 tags: Computers
-image: /assets/images/uploads/google.png
+image: https://cdn.pixabay.com/photo/2020/05/29/22/00/field-5236879_960_720.jpg
 beforetoc: There are hundreds of free MySpace layouts on the Internet. They are
   used specifically for the site, and almost all members try to be a part of
 date: 2021-04-04T13:35:31.716Z
